@@ -21,7 +21,7 @@ poetry install
 
 ## Data
 - All datasets are hosted on [🤗 Huggingface datasets](https://huggingface.co/datasets). 
-- Evaluation datasets and loaded and preprocessed in `src/utils.py`. 
+- Evaluation datasets and loaded and preprocessed in `tarot/utils.py`. 
 - We use the [Yelp review dataset](https://huggingface.co/datasets/Yelp/yelp_review_full) to train the generation models.
 
 ## Usage
