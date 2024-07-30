@@ -1,6 +1,6 @@
 # TAROT
 
-Code for the paper: **TAROT: Task-Oriented Authorship Obfuscation Using Policy Optimization**
+Code for the paper: **TAROT: Task-Oriented Authorship Obfuscation Using Policy Optimization Methods**
 
 Preprint on arXiv: coming soon
 
