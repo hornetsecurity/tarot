@@ -33,7 +33,7 @@ Running evaluation scripts will result in the folowwing folder structure:
 ```
 tarot
 ├── imdb-10
-│   ├── authorship_ckeckpoint
+│   ├── authorship_checkpoint
 │   ├── deberta-v3-authorship-imdb-10
 │   ├── deberta-v3-utility-imdb-10
 │   ├── utility_checkpoint
@@ -45,7 +45,7 @@ tarot
 ├── pyproject.toml
 └── README.md
 ```
-Where `deberta-v3-authorship-imdb-10` and `deberta-v3-utility-imdb-10` are respectively the authorship attribution and the utility classifier. `imdb-10-test-DPO.csv` and `imdb-10-test-PPO.csv` the resulting obfuscated dataset using DPO and PPO. `authorship_ckeckpoint` and `utility_checkpoint` are the evaluation classfier checkpoints.
+Where `deberta-v3-authorship-imdb-10` and `deberta-v3-utility-imdb-10` are respectively the authorship attribution and the utility classifier. `imdb-10-test-DPO.csv` and `imdb-10-test-PPO.csv` the resulting obfuscated dataset using DPO and PPO. `authorship_checkpoint` and `utility_checkpoint` are the evaluation classfier checkpoints.
 
 ## Citation
 ```
