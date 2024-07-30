@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "tarot"
+version = "0.1.0"
+description = ""
+authors = ["Gabriel Loiseau"]
+license = "GNU GPLv3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+datasets = "2.19.0"
+evaluate = "0.4.1"
+nltk = "3.8.1"
+protobuf = "5.27.2"
+rich = "13.7.1"
+sentence-transformers = "3.0.0"
+sentencepiece = "0.2.0"
+tokenizers = "0.15.2"
+torch = "2.2.2"
+transformers = "4.39.3"
+trl = "0.8.6"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
