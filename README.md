@@ -1,8 +1,8 @@
 # TAROT
 
-Code for the paper: **TAROT: Task-Oriented Authorship Obfuscation Using Policy Optimization Methods**
+Code for the paper: [**TAROT: Task-Oriented Authorship Obfuscation Using Policy Optimization Methods**](https://arxiv.org/abs/2407.21630v1)
 
-Preprint on arXiv: coming soon
+Preprint on arXiv: https://arxiv.org/abs/2407.21630v1
 
 TAROT models are available on [🤗 Huggingface](https://huggingface.co/collections/gabrielloiseau/tarot-66a20fef9d0cd83041e88506).
 
@@ -49,4 +49,13 @@ Where `deberta-v3-authorship-imdb-10` and `deberta-v3-utility-imdb-10` are respe
 
 ## Citation
 ```
+@misc{loiseau2024tarot,
+      title={TAROT: Task-Oriented Authorship Obfuscation Using Policy Optimization Methods}, 
+      author={Gabriel Loiseau and Damien Sileo and Damien Riquet and Maxime Meyer and Marc Tommasi},
+      year={2024},
+      eprint={2407.21630},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.21630}, 
+}
 ```
